@@ -1,2 +1,2 @@
 # About-me
-My resume, my CV and me.
+<br>My resume, my CV and me. </br>
